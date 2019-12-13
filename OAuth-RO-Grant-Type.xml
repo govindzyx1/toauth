@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="OAuth-RO-Grant-Type">
+    <Basepaths>/oauth/token</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1526438564165</CreatedAt>
+    <CreatedBy>anilsr@google.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>OAuth-RO-Grant-Type</DisplayName>
+    <LastModifiedAt>1526441237447</LastModifiedAt>
+    <LastModifiedBy>anilsr@google.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:8d766b7a926bb02c63862443f53e014c7ed43a675d47bd7c795a1d99701d3846310804b37df35edf986d6ef6f153c84faaed23403fadff45a2fed7f5c92588f8</ManifestVersion>
+    <Policies>
+        <Policy>BA-Encode</Policy>
+        <Policy>GetAccessToken</Policy>
+        <Policy>Service-Callout-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>

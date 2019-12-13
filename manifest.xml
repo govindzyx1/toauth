@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="BA-Encode" version="SHA-512:f1f4a848c85ab46e5ce2cec88032f77a629d10f63adcf2e4a1a13dc360aea97e0aa7c8b19cb3a5efc960c72a8490add07795948dd1c4026d7130d046b89ada49"/>
+        <VersionInfo resourceName="GetAccessToken" version="SHA-512:84dd4bfffa71096375b9dd471b03665f1464af682334329bad9e13f0cad89967aef11e2ca3b460770e02a69619f02ebf5820830a2a7458ec15ba8ea3b701aa42"/>
+        <VersionInfo resourceName="Service-Callout-1" version="SHA-512:9ed8d44e53c097d20b03776be6ca819e820c70ba04ee96ff9b999c337d1906727a7d7047d08f03faae3ccafbe25713b2ffe51ee7cc0b7635ece97231aef1941b"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:29b52fad8b396d0cf4250868a296861a91101d460a0668100e3e7cbf553e2c0ec443c6530893486932b26b6ab716c15ac51960deb19de117ad39f49a10f74e0f"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints/>
+</Manifest>
